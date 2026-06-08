@@ -1,0 +1,6 @@
+{
+	"appId": "com.janhith.app",
+	"appName": "JANHITH",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
